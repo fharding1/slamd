@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name boards)(type Legacy)(uri /home/franklin/src/slamd/SparkFun-KiCad-Libraries-master/Libraries/SparkFun-Boards.lib)(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri /home/franklin/src/slamd/kicad_lib_tmk-master/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name connectors)(type Legacy)(uri /home/franklin/src/slamd/SparkFun-KiCad-Libraries-master/Libraries/SparkFun-Connectors.lib)(options "")(descr ""))
+)

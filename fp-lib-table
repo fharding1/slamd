@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name keebs)(type KiCad)(uri /home/franklin/src/slamd/keebs.pretty-master)(options "")(descr ""))
+  (lib (name boards)(type KiCad)(uri /home/franklin/src/slamd/SparkFun-KiCad-Libraries-master/Footprints/Boards.pretty)(options "")(descr ""))
+  (lib (name parts)(type KiCad)(uri /home/franklin/src/slamd/keyboard_parts.pretty-master)(options "")(descr ""))
+  (lib (name connectors)(type KiCad)(uri /home/franklin/src/slamd/SparkFun-KiCad-Libraries-master/Footprints/Connectors.pretty)(options "")(descr ""))
+  (lib (name root)(type KiCad)(uri /home/franklin/src/slamd)(options "")(descr ""))
+)
